@@ -1,2 +1,2 @@
-# Demo_codestruct
-![image](https://github.com/UAF9978/Demo_codestruct/raw/master/screenshots/codestruct.png)
+# hhc-appstruct
+![image](https://github.com/UAF9978/hhc-appstruct/raw/master/screenshots/codestruct-v1.png)

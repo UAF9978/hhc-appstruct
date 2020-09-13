@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.hhc.library.MainActivity">
+        <activity android:name="com.hhc.library.hhclib001.LibActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
